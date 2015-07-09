@@ -5,16 +5,16 @@ For licensing, see LICENSE.md or http://ckeditor.com/license
 CKEDITOR.plugins.setLang( 'image2', 'bg', {
 	alt: 'Алтернативен текст',
 	btnUpload: 'Изпрати я на сървъра',
-	captioned: 'Надписано изображение',
-	captionPlaceholder: 'Надпис',
-	infoTab: 'Детайли за изображението',
+	captioned: 'Captioned image', // MISSING
+	captionPlaceholder: 'Caption', // MISSING
+	infoTab: 'Инфо за снимка',
 	lockRatio: 'Заключване на съотношението',
-	menu: 'Настройки на изображението',
-	pathName: 'изображение',
-	pathNameCaption: 'надпис',
+	menu: 'Настройки за снимка',
+	pathName: 'image', // MISSING
+	pathNameCaption: 'caption', // MISSING
 	resetSize: 'Нулиране на размер',
-	resizer: 'Кликни и влачи, за да преоразмериш',
-	title: 'Настройки на изображението',
+	resizer: 'Click and drag to resize', // MISSING
+	title: 'Настройки за снимка',
 	uploadTab: 'Качване',
-	urlMissing: 'URL адреса на изображението липсва.'
+	urlMissing: 'Image source URL is missing.' // MISSING
 } );

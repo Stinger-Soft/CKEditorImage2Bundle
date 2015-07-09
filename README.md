@@ -3,7 +3,7 @@ Symfony2 Bundle to integrate the CKEditor plugin Image2
 
 ## Current Version
 
-Image2 v4.5.1
+Image2 v4.4.8
 
 ## Installation
 
@@ -15,7 +15,7 @@ Image2 v4.5.1
 {
     "require": {
 		// ...
-        "stinger/ckeditor-image2-bundle": "~4.5.1"
+        "stinger/ckeditor-image2-bundle": "~4.4.8"
     }
 }
 ```

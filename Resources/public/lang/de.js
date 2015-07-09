@@ -7,14 +7,14 @@ CKEDITOR.plugins.setLang( 'image2', 'de', {
 	btnUpload: 'Zum Server senden',
 	captioned: 'Bild mit Überschrift',
 	captionPlaceholder: 'Überschrift',
-	infoTab: 'Bildinfo',
+	infoTab: 'Bild-Info',
 	lockRatio: 'Größenverhältnis beibehalten',
-	menu: 'Bildeigenschaften',
+	menu: 'Bild-Eigenschaften',
 	pathName: 'Bild',
 	pathNameCaption: 'Überschrift',
 	resetSize: 'Größe zurücksetzen',
-	resizer: 'Zum Vergrößern auswählen und ziehen',
+	resizer: 'Zum vergrößern anwählen und ziehen',
 	title: 'Bild-Eigenschaften',
 	uploadTab: 'Hochladen',
-	urlMissing: 'Bildquellen-URL fehlt.'
+	urlMissing: 'Imagequelle URL fehlt.'
 } );

@@ -145,10 +145,10 @@ CKEDITOR.dialog.add( 'image2', function( editor ) {
 					return toggleLockRatio( false );
 
 				// Fill width field with the width of the new image.
-				widthField.setValue( editor.config.image2_prefillDimensions === false ? 0 : width );
+				widthField.setValue( width );
 
 				// Fill height field with the height of the new image.
-				heightField.setValue( editor.config.image2_prefillDimensions === false ? 0 : height );
+				heightField.setValue( height );
 
 				// Cache the new width.
 				preLoadedWidth = width;
