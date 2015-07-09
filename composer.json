@@ -19,7 +19,7 @@
 		"symfony/framework-bundle" : ">=2.1"
 	},
 	"suggest" : {
-		"Trsteel/ckeditor-bundle"
+		"Trsteel/ckeditor-bundle" : "The CKEditor Bundle we're using ;)"
 	},
 	"autoload" : {
 		"psr-0" : {
