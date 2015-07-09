@@ -1,4 +1,4 @@
-# Moment.js Bundle for Symfony2
+# CKEditor plugin Image2 Bundle for Symfony2
 Symfony2 Bundle to integrate the CKEditor plugin Image2
 
 ## Current Version
