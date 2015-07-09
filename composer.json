@@ -1,0 +1,30 @@
+{
+	"name" : "stinger/ckeditor-image2-bundle",
+	"type" : "symfony-bundle",
+	"description" : "Symfony2 Bundle to integrate the CKEditor plugin Image2",
+	"keywords" : [
+		"ckeditor",
+		"image2",
+		"symfony"
+	],
+	"homepage" : "http://ckeditor.com/addon/image2",
+	"license" : "LGPL,GPL,MPL",
+	"authors" : [{
+			"name" : "Florian Meyer",
+			"email" : "florian.meyer@stinger-soft.net",
+			"homepage" : "http://www.stinger-soft.net"
+		}
+	],
+	"require" : {
+		"symfony/framework-bundle" : ">=2.1"
+	},
+	"suggest" : {
+		"Trsteel/ckeditor-bundle"
+	},
+	"autoload" : {
+		"psr-0" : {
+			"Stinger\\CKEditorImage2Bundle" : ""
+		}
+	},
+	"target-dir" : "Stinger/CKEditorImage2Bundle"
+}
