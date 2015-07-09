@@ -57,7 +57,13 @@ $ php app/console assets:install --symlink web
 
 ### Usage
 
-t.b.d.
+``` yaml
+trsteel_ckeditor:
+    external_plugins:
+      image2:
+        path: 'bundles/stingerckeditorimage2'
+```
+
 
 
 # Licenses
