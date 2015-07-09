@@ -8,7 +8,7 @@
 		"symfony"
 	],
 	"homepage" : "http://ckeditor.com/addon/image2",
-	"license" : "LGPL,GPL,MPL",
+	"license" : ["LGPL-3.0","GPL-3.0","MPL"],
 	"authors" : [{
 			"name" : "Florian Meyer",
 			"email" : "florian.meyer@stinger-soft.net",
